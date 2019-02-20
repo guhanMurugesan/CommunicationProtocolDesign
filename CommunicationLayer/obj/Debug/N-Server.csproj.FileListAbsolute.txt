@@ -1,0 +1,6 @@
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\CommunicationLayer\CommunicationLayer\bin\Debug\CommunicationLayer.exe.config
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\CommunicationLayer\CommunicationLayer\bin\Debug\CommunicationLayer.exe
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\CommunicationLayer\CommunicationLayer\bin\Debug\CommunicationLayer.pdb
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\CommunicationLayer\CommunicationLayer\obj\Debug\N-Server.csprojResolveAssemblyReference.cache
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\CommunicationLayer\CommunicationLayer\obj\Debug\CommunicationLayer.exe
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\CommunicationLayer\CommunicationLayer\obj\Debug\CommunicationLayer.pdb

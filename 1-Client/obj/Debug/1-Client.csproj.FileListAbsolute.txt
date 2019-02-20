@@ -1,0 +1,6 @@
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\CommunicationLayer\1-Client\bin\Debug\1-Client.exe.config
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\CommunicationLayer\1-Client\bin\Debug\1-Client.exe
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\CommunicationLayer\1-Client\bin\Debug\1-Client.pdb
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\CommunicationLayer\1-Client\obj\Debug\1-Client.exe
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\CommunicationLayer\1-Client\obj\Debug\1-Client.pdb
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\CommunicationLayer\1-Client\obj\Debug\1-Client.csprojResolveAssemblyReference.cache
